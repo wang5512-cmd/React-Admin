@@ -1,0 +1,20 @@
+.header {
+  height: 80px;
+  background: #ccc;
+}
+.header-top {
+  text-align: right;
+  height: 40px;
+  line-height: 40px;
+  border-bottom: 1px solid #ccc;
+}
+.header-bottom {
+  height: 39px;
+  line-height: 39px;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
